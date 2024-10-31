@@ -30,50 +30,73 @@
     <strong>"I specialize in front-end development, focusing on delivering high-quality, responsive web applications. With a strong foundation in modern technologies and a commitment to continuous learning, I am dedicated to driving innovation and excellence in web development."</strong>
   </p>
 
-## 🔧 Tools & Technologies
+## 🔧 Tools Technologies & 🛠 Skills
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+<p>
+  <a target="_blank" href="https://reactjs.org/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" width="42" height="42" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <a target="_blank" href="https://nextjs.org/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="nextjs" width="42" height="42" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <a target="_blank" href="https://www.w3schools.com/css/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
   </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
+  <a target="_blank" href="https://www.w3.org/html/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" width="42" height="42" />
   </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
+  <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="tailwind" width="42" height="42" />
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+  <a target="_blank" href="https://redux.js.org" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" />
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <a target="_blank" href="https://nodejs.org" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  <a target="_blank" href="https://expressjs.com" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" />
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
+  <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
   </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+  <a target="_blank" href="https://www.mysql.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.oracle.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.gnu.org/software/bash/" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://firebase.google.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="firebase" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.figma.com/" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://postman.com" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.mathworks.com/" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.linux.org/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://git-scm.com/" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
   </a>
 </p>
 
-
-
-
 ## 💼 Current Focus
+
 <p align="center">
   I'm diving deep into modern front-end frameworks and exploring the latest trends in web development. I focus on crafting clean, efficient, and scalable code that enhances the user experience.
 </p>
 
 ## 🌟 What I Believe In
+
 <ul>
   <li>💡 Continuous learning and self-improvement.</li>
   <li>🎨 The perfect blend of functionality and design.</li>
@@ -81,6 +104,7 @@
 </ul>
 
 ## 🚀 Hobbies & Interests
+
 <ul>
   <li>📚 Reading tech blogs and staying updated with the latest in the tech world.</li>
   <li>🎮 Gaming and exploring new game designs.</li>
@@ -88,6 +112,7 @@
 </ul>
 
 ## 🌍 Let's Connect
+
 <p align="center">
   I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to reach out to me!
 </p>
@@ -105,7 +130,6 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
@@ -115,6 +139,7 @@
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
+
 <ul>
   <li><strong>HTML5</strong>: Crafting semantic, accessible, and SEO-friendly web content.</li>
   <li><strong>CSS3</strong>: Styling with precision using modern techniques like Flexbox and Grid.</li>
@@ -122,6 +147,7 @@
 </ul>
 
 ### 🖥️ Frontend Frameworks & Libraries
+
 <ul>
   <li><strong>React</strong>: Building efficient, reusable components with a strong focus on performance.</li>
   <li><strong>Tailwind CSS</strong>: Utilizing utility-first CSS for rapid UI development.</li>
@@ -129,6 +155,7 @@
 </ul>
 
 ### 🧰 Tools & Platforms
+
 <ul>
   <li><strong>Git & GitHub</strong>: Version control and collaborative development on a global scale.</li>
   <li><strong>VS Code</strong>: My go-to code editor with a tailored setup for productivity.</li>
@@ -136,6 +163,7 @@
 </ul>
 
 ### 🌐 Web Development Practices
+
 <ul>
   <li><strong>Responsive Design</strong>: Ensuring websites look great on any device.</li>
   <li><strong>Cross-Browser Compatibility</strong>: Testing and optimizing for all major browsers.</li>
@@ -143,6 +171,7 @@
 </ul>
 
 ### 🎨 Design Skills
+
 <ul>
   <li><strong>UI/UX Design</strong>: Crafting visually appealing and user-friendly interfaces.</li>
   <li><strong>Wireframing & Prototyping</strong>: Laying down the blueprint for successful projects.</li>
@@ -150,6 +179,7 @@
 </ul>
 
 ### ⚙️ Additional Tools
+
 <ul>
   <li><strong>NPM & Webpack</strong>: Managing dependencies and automating build processes.</li>
   <li><strong>Tailwind CLI</strong>: Streamlining the use of Tailwind CSS in projects.</li>
@@ -157,6 +187,7 @@
 </ul>
 
 ### 🌱 Currently Learning
+
 <ul>
   <li><strong>TypeScript</strong>: Enhancing JavaScript with static types for better maintainability.</li>
   <li><strong>Next.js</strong>: Exploring server-side rendering and static site generation.</li>
@@ -172,6 +203,7 @@
 ## 🚀 Projects
 
 ### 1. **[Project Name](#)**
+
 <p align="center">
   <img src="https://via.placeholder.com/150?text=Project+1" alt="Project 1 Image">
   <br>
@@ -179,6 +211,7 @@
 </p>
 
 ### 2. **[Project Name](#)**
+
 <p align="center">
   <img src="https://via.placeholder.com/150?text=Project+2" alt="Project 2 Image">
   <br>
@@ -186,6 +219,7 @@
 </p>
 
 ### 3. **[Project Name](#)**
+
 <p align="center">
   <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3 Image">
   <br>
@@ -209,7 +243,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -220,6 +253,7 @@
 </p>
 
 ## 🏆 GitHub Profile Trophy
+
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NajibHossain49&theme=onedark&no-frame=true&margin-w=5" alt="Najib's GitHub Trophies">
   </p>
@@ -239,7 +273,6 @@
 <p align="center">
   *Embracing the fun side of coding and enjoying the creative process!*
 </p>
-
 
 ---
 
