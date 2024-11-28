@@ -188,11 +188,11 @@
   <img 
     src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" 
     alt="Coding Fun" 
-    width="800" 
-    height="450"
+    style="width: 100%; height: auto;"
   />
 </p>
 
 💭 I enjoy creating visually appealing designs and working on challenging projects. You can find me exploring tech trends or brainstorming ideas when not coding. 😊
+
 
 
