@@ -185,7 +185,12 @@
 ## 💡 Fun Fact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coding Fun" width="100%">
+  <img 
+    src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" 
+    alt="Coding Fun" 
+    style="width: 80%; height: auto;"
+  />
 </p>
+
 
 💭 I enjoy creating visually appealing designs and working on challenging projects. You can find me exploring tech trends or brainstorming ideas when not coding. 😊
