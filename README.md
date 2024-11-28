@@ -1,27 +1,281 @@
+<!-- Profile Banner -->
+<p align="center">
+    <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile Banner" width="100%" height="350px" style="object-fit: cover;">
+  </p>
+  
+  <!-- Professional Summary -->
+  <h1 align="center">
+    Hi there, I'm Najib Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  </h1>
+  
+  <p align="center">
+    <strong>Frontend Web Developer | Tech Enthusiast | Lifelong Learner</strong>
+  </p>
+  
+  <p align="center">
+    I'm a passionate front-end developer with a keen eye for design and a love for building intuitive, responsive, and visually appealing web applications. I enjoy turning complex problems into simple, beautiful, and user-friendly interfaces.
+  </p>
+  
+  <p align="center">
+    <strong>"Turning ideas into reality through clean, efficient code and creative design."</strong>
+  </p>
+  
+  <!-- Mission Statement -->
+  <p align="center">
+    <strong>"My mission is to create innovative, user-centric web solutions that solve real-world problems and enhance the digital experience for users across the globe."</strong>
+  </p>
+  
+  <!-- Professional Summary: Elevator Pitch -->
+  <p align="center">
+    <strong>"I specialize in front-end development, focusing on delivering high-quality, responsive web applications. With a strong foundation in modern technologies and a commitment to continuous learning, I am dedicated to driving innovation and excellence in web development."</strong>
+  </p>
 
-<h1 align="center">Hi 👋, I'm NAJIB HOSSAIN</h1>
-<h3 align="center">Junior Front-End Developer | React.js & JavaScript Enthusiast | Building Interactive Web Experiences</h3>
+## 🔧 Tools Technologies & 🛠 Skills
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=najibhossain49&label=Profile%20views&color=0e75b6&style=flat" alt="najibhossain49" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najibhossain49" alt="najibhossain49" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/najibhossain49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/@najibhossain49" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-najib-hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-najib-hossain/" height="30" width="40" /></a>
-<a href="https://medium.com/@najib-hossain49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@najib-hossain49" height="30" width="40" /></a>
+<p>
+  <a target="_blank" href="https://reactjs.org/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://nextjs.org/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="nextjs" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.w3schools.com/css/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.w3.org/html/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="tailwind" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://redux.js.org" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://nodejs.org" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://expressjs.com" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.mysql.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.oracle.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.gnu.org/software/bash/" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://firebase.google.com/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="firebase" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.figma.com/" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://postman.com" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.mathworks.com/" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.linux.org/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://git-scm.com/" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💼 Current Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najibhossain49&show_icons=true&locale=en&layout=compact" alt="najibhossain49" /></p>
+<p align="center">
+  I'm diving deep into modern front-end frameworks and exploring the latest trends in web development. I focus on crafting clean, efficient, and scalable code that enhances the user experience.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najibhossain49&show_icons=true&locale=en" alt="najibhossain49" /></p>
+## 🌟 What I Believe In
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najibhossain49&" alt="najibhossain49" /></p>
+<ul>
+  <li>💡 Continuous learning and self-improvement.</li>
+  <li>🎨 The perfect blend of functionality and design.</li>
+  <li>🤝 Collaboration and open-source contributions.</li>
+</ul>
+
+## 🚀 Hobbies & Interests
+
+<ul>
+  <li>📚 Reading tech blogs and staying updated with the latest in the tech world.</li>
+  <li>🎮 Gaming and exploring new game designs.</li>
+  <li>🎨 Experimenting with UI/UX design in my spare time.</li>
+</ul>
+
+## 🌍 Let's Connect
+
+<p align="center">
+  I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to reach out to me!
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-najib-hossain/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&label=" alt="X Badge">
+</a>
+
+  <a href="mailto:najibhossain1234@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>"Coding is not just a profession, it's my passion!"</strong>
+</p>
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+
+<ul>
+  <li><strong>HTML5</strong>: Crafting semantic, accessible, and SEO-friendly web content.</li>
+  <li><strong>CSS3</strong>: Styling with precision using modern techniques like Flexbox and Grid.</li>
+  <li><strong>JavaScript (ES6+)</strong>: Bringing interactivity and dynamic functionality to web pages.</li>
+</ul>
+
+### 🖥️ Frontend Frameworks & Libraries
+
+<ul>
+  <li><strong>React</strong>: Building efficient, reusable components with a strong focus on performance.</li>
+  <li><strong>Tailwind CSS</strong>: Utilizing utility-first CSS for rapid UI development.</li>
+  <li><strong>Bootstrap</strong>: Designing responsive, mobile-first websites quickly.</li>
+</ul>
+
+### 🧰 Tools & Platforms
+
+<ul>
+  <li><strong>Git & GitHub</strong>: Version control and collaborative development on a global scale.</li>
+  <li><strong>VS Code</strong>: My go-to code editor with a tailored setup for productivity.</li>
+  <li><strong>Figma</strong>: Turning ideas into reality with precise UI/UX design and prototyping.</li>
+</ul>
+
+### 🌐 Web Development Practices
+
+<ul>
+  <li><strong>Responsive Design</strong>: Ensuring websites look great on any device.</li>
+  <li><strong>Cross-Browser Compatibility</strong>: Testing and optimizing for all major browsers.</li>
+  <li><strong>Performance Optimization</strong>: Writing clean, efficient code to enhance user experience.</li>
+</ul>
+
+### 🎨 Design Skills
+
+<ul>
+  <li><strong>UI/UX Design</strong>: Crafting visually appealing and user-friendly interfaces.</li>
+  <li><strong>Wireframing & Prototyping</strong>: Laying down the blueprint for successful projects.</li>
+  <li><strong>Adobe Photoshop</strong>: Creating and editing visuals to complement web designs.</li>
+</ul>
+
+### ⚙️ Additional Tools
+
+<ul>
+  <li><strong>NPM & Webpack</strong>: Managing dependencies and automating build processes.</li>
+  <li><strong>Tailwind CLI</strong>: Streamlining the use of Tailwind CSS in projects.</li>
+  <li><strong>Command Line</strong>: Navigating and controlling systems efficiently.</li>
+</ul>
+
+### 🌱 Currently Learning
+
+<ul>
+  <li><strong>TypeScript</strong>: Enhancing JavaScript with static types for better maintainability.</li>
+  <li><strong>Next.js</strong>: Exploring server-side rendering and static site generation.</li>
+  <li><strong>Advanced CSS Animations</strong>: Adding life and movement to web elements.</li>
+</ul>
+
+---
+
+<p align="center">
+  <strong>"Always eager to learn new skills and improve existing ones to stay ahead in the ever-evolving world of web development!"</strong>
+</p>
+
+## 🚀 Projects
+
+### 1. **[Project Name](#)**
+
+<p align="center">
+  <img src="https://via.placeholder.com/150?text=Project+1" alt="Project 1 Image">
+  <br>
+  *A brief description of the project, highlighting key features and technologies used.*
+</p>
+
+### 2. **[Project Name](#)**
+
+<p align="center">
+  <img src="https://via.placeholder.com/150?text=Project+2" alt="Project 2 Image">
+  <br>
+  *A brief description of the project, highlighting key features and technologies used.*
+</p>
+
+### 3. **[Project Name](#)**
+
+<p align="center">
+  <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3 Image">
+  <br>
+  *A brief description of the project, highlighting key features and technologies used.*
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-najib-hossain/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&label=" alt="X Badge">
+</a>
+
+  <a href="mailto:najibhossain1234@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical" alt="Najib's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" alt="Najib's Most Used Languages">
+</p>
+
+## 🏆 GitHub Profile Trophy
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=NajibHossain49&theme=onedark&no-frame=true&margin-w=5" alt="Najib's GitHub Trophies">
+  </p>
+  
+  ## 📈 Visitor Count
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=NajibHossain49&style=for-the-badge" alt="Profile Views">
+  </p>
+---
+
+## 🎨 Fun with Coding
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3bnV3MXR5OW0zeml3Y3J1MXo2aXJucDU4bDQzbGJnbDBtOGtpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Fun" width="100%">
+</p>
+
+<p align="center">
+  *Embracing the fun side of coding and enjoying the creative process!*
+</p>
+
+---
+
+<p align="center">
+  <strong>"Passionate about turning ideas into reality and connecting with like-minded professionals!"</strong>
+</p>
