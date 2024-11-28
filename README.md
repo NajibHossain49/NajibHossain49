@@ -132,27 +132,6 @@
 
 ---
 
-<p align="center">
-  <strong>"Coding is not just a profession, it's my passion!"</strong>
-</p>
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-najib-hossain/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&label=" alt="X Badge">
-</a>
-
-  <a href="mailto:najibhossain1234@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
