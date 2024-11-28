@@ -75,4 +75,4 @@
 
 ## 💡 Fun Fact
 
-💭 I enjoy creating visually appealing designs and working on challenging projects. When not coding, you can find me exploring tech trends or brainstorming ideas. 😊
+💭 I enjoy creating visually appealing designs and working on challenging projects. You can find me exploring tech trends or brainstorming ideas when not coding. 😊
