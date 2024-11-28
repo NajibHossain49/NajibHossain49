@@ -13,12 +13,17 @@
   
 ###
 
-<h2 align="left">About me</h2>
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-###
+- 🔭 I’m currently working at [Programming Hero](https://www.programming-hero.com/)  
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- 🌱 I’m currently learning TypeScript, React-Native & Blockchain.
 
+- 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
+ - 📫 Reach me at **Mnhnajib@outlook.com**  
+
+<br>
 ###
 <h4 >
     <strong>"Turning ideas into reality through clean, efficient code and creative design."</strong>
