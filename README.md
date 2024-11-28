@@ -136,24 +136,6 @@
   I'm diving deep into modern front-end frameworks and exploring the latest trends in web development. I focus on crafting clean, efficient, and scalable code that enhances the user experience.
 </h3>
 
-## 🌟 What I Believe In
-
-<ul>
-  <li><h4>💡 Continuous learning and self-improvement.</h4></li>
-  <li><h4>🎨 The perfect blend of functionality and design.</h4></li>
-  <li><h4>🤝 Collaboration and open-source contributions.</h4></li>
-</ul>
-
-
-## 🚀 Hobbies & Interests
-
-<ul>
-  <li><h4>📚 Reading tech blogs and staying updated with the latest in the tech world.</h4></li>
-  <li><h4>🎮 Gaming and exploring new game designs.</h4></li>
-  <li><h4>🎨 Experimenting with UI/UX design in my spare time.</h4></li>
-</ul>
-
-
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
