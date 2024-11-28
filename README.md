@@ -7,13 +7,10 @@
   <h1 align="center">
     Hi there, I'm Najib Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
-  
   <h2 align="center">
     <strong>Frontend Web Developer | Tech Enthusiast | Lifelong Learner</strong>
   </h2>
   
-  
-
 ###
 
 <h2 align="left">About me</h2>
@@ -23,10 +20,9 @@
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
-  
-  <h4 align="center">
+<h4 >
     <strong>"Turning ideas into reality through clean, efficient code and creative design."</strong>
-  </h4>
+</h4>
   
   
 
