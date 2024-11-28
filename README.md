@@ -20,15 +20,7 @@
     <strong>"Turning ideas into reality through clean, efficient code and creative design."</strong>
   </p>
   
-  <!-- Mission Statement -->
-  <p align="center">
-    <strong>"My mission is to create innovative, user-centric web solutions that solve real-world problems and enhance the digital experience for users across the globe."</strong>
-  </p>
   
-  <!-- Professional Summary: Elevator Pitch -->
-  <p align="center">
-    <strong>"I specialize in front-end development, focusing on delivering high-quality, responsive web applications. With a strong foundation in modern technologies and a commitment to continuous learning, I am dedicated to driving innovation and excellence in web development."</strong>
-  </p>
 
 ## 🔧 Tools Technologies & 🛠 Skills
 
