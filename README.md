@@ -21,7 +21,7 @@
 ## About Me <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 <img width="55%" align="right" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at [Programming Hero](https://www.programming-hero.com/)
+- 🔭 I’m currently working at 
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/) and Blockchain Technology.
 - 💬 Talk to me about **React, Node.js, Python, JavaScript, and Freelancing Opportunities**
 - 📫 Reach me at **najibhossain1234@gmail.com**
