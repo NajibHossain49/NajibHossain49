@@ -26,7 +26,7 @@
 <h4 >
     <strong>"Turning ideas into reality through clean, efficient code and creative design."</strong>
 </h4>
-  
+---  
   
 
 # 🔧 Tools Technologies & 🛠 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
