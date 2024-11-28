@@ -200,7 +200,7 @@
   <strong>"Always eager to learn new skills and improve existing ones to stay ahead in the ever-evolving world of web development!"</strong>
 </p>
 
-## 🚀 Projects
+
 
 
 
@@ -244,10 +244,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3bnV3MXR5OW0zeml3Y3J1MXo2aXJucDU4bDQzbGJnbDBtOGtpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Fun" width="100%">
-</p>
-
-<p align="center">
-  *Embracing the fun side of coding and enjoying the creative process!*
 </p>
 
 ---
