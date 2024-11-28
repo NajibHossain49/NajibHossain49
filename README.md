@@ -134,9 +134,10 @@
   </p>
   
   ## 📈 Visitor Count
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=NajibHossain49&style=for-the-badge" alt="Profile Views">
-  </p>
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/NajibHossain49/count.svg?"  />
+</div>
+
 
 
 ## 🎨 Fun with Coding
