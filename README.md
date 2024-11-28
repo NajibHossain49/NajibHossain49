@@ -173,12 +173,13 @@
 
 <br>
 
-## 📈 GitHub Stats <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40px" height="40px">
+## 📈 GitHub Stats <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40px" height="40px">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=tokyonight" alt="Najib's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
 <br>
 
