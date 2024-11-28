@@ -105,22 +105,21 @@
 
 ## 🌍 Let's Connect
 
-<p align="center">
+<h3 align="center">
   I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to reach out to me!
-</p>
+</h3>
 
-<p align="center">
+<h2 align="center">
   <a href="https://www.linkedin.com/in/md-najib-hossain/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&label=" alt="X Badge">
-</a>
-
   <a href="mailto:najibhossain1234@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-</p>
+  <a href="https://wa.me/YOURNUMBERHERE">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
+  </a>
+</h2>
 
 ---
 
