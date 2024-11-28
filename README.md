@@ -12,11 +12,7 @@
     <strong>Frontend Web Developer | Tech Enthusiast | Lifelong Learner</strong>
   </h2>
   
-  <h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Hi there, I'm Najib Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p>
+  
 
 ###
 
