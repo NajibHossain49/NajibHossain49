@@ -175,7 +175,7 @@
 
 ## 📊 GitHub Stats <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40px" height="40px">
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical" alt="Najib's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" alt="Najib's Most Used Languages" />
 </p>
