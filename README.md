@@ -173,15 +173,14 @@
 
 <br>
 
-## 📈 GitHub Stats <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40px" height="40px">
+## 📊 GitHub Stats <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40px" height="40px">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical" alt="Najib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" alt="Najib's Most Used Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NajibHossain49&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 💡 Fun Fact
 
