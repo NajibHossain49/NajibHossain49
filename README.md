@@ -83,9 +83,9 @@
 
 ## 💼 Current Focus
 
-<p align="center">
+<h3 align="center">
   I'm diving deep into modern front-end frameworks and exploring the latest trends in web development. I focus on crafting clean, efficient, and scalable code that enhances the user experience.
-</p>
+</h3>
 
 ## 🌟 What I Believe In
 
@@ -151,6 +151,6 @@
 
 ---
 
-<p align="center">
-  <strong>"Passionate about turning ideas into reality and connecting with like-minded professionals!"</strong>
-</p>
+<h3 align="center">
+  <strong>Passionate about turning ideas into reality and connecting with like-minded professionals!</strong>
+</h3>
