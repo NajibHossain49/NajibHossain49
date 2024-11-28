@@ -8,21 +8,21 @@
     Hi there, I'm Najib Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
   
-  <p align="center">
+  <h2 align="center">
     <strong>Frontend Web Developer | Tech Enthusiast | Lifelong Learner</strong>
-  </p>
+  </h2>
   
-  <p align="center">
+  <h3 align="center">
     I'm a passionate front-end developer with a keen eye for design and a love for building intuitive, responsive, and visually appealing web applications. I enjoy turning complex problems into simple, beautiful, and user-friendly interfaces.
-  </p>
+  </h3>
   
-  <p align="center">
+  <h3 align="center">
     <strong>"Turning ideas into reality through clean, efficient code and creative design."</strong>
-  </p>
+  </h3>
   
   
 
-## 🔧 Tools Technologies & 🛠 Skills
+# 🔧 Tools Technologies & 🛠 Skills
 
 <p>
   <a target="_blank" href="https://reactjs.org/" style="display: inline-block;">
@@ -81,7 +81,7 @@
   </a>
 </p>
 
-## 💼 Current Focus
+#💼 Current Focus
 
 <h3 align="center">
   I'm diving deep into modern front-end frameworks and exploring the latest trends in web development. I focus on crafting clean, efficient, and scalable code that enhances the user experience.
@@ -90,18 +90,20 @@
 ## 🌟 What I Believe In
 
 <ul>
-  <li>💡 Continuous learning and self-improvement.</li>
-  <li>🎨 The perfect blend of functionality and design.</li>
-  <li>🤝 Collaboration and open-source contributions.</li>
+  <li><h4>💡 Continuous learning and self-improvement.</h4></li>
+  <li><h4>🎨 The perfect blend of functionality and design.</h4></li>
+  <li><h4>🤝 Collaboration and open-source contributions.</h4></li>
 </ul>
+
 
 ## 🚀 Hobbies & Interests
 
 <ul>
-  <li>📚 Reading tech blogs and staying updated with the latest in the tech world.</li>
-  <li>🎮 Gaming and exploring new game designs.</li>
-  <li>🎨 Experimenting with UI/UX design in my spare time.</li>
+  <li><h4>📚 Reading tech blogs and staying updated with the latest in the tech world.</h4></li>
+  <li><h4>🎮 Gaming and exploring new game designs.</h4></li>
+  <li><h4>🎨 Experimenting with UI/UX design in my spare time.</h4></li>
 </ul>
+
 
 ## 🌍 Let's Connect
 
@@ -116,7 +118,7 @@
   <a href="mailto:najibhossain1234@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://wa.me/YOURNUMBERHERE">
+  <a href="https://wa.me/8801534633727">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
   </a>
 </h2>
