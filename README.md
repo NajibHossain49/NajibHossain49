@@ -159,12 +159,18 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NajibHossain49&theme=onedark&no-frame=true&margin-w=5" alt="Najib's GitHub Trophies">
   </p>
+
+  <br>
+<br>
+
   
   ## 📈 Visitor Count
   <div align="center">
   <img src="https://profile-counter.glitch.me/NajibHossain49/count.svg?"  />
 </div>
-
+<br>
+<br>
+<br>
 
 
 ## 🎨 Fun with Coding
