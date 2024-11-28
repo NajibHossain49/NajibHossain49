@@ -202,31 +202,7 @@
 
 ## 🚀 Projects
 
-### 1. **[Project Name](#)**
 
-<p align="center">
-  <img src="https://via.placeholder.com/150?text=Project+1" alt="Project 1 Image">
-  <br>
-  *A brief description of the project, highlighting key features and technologies used.*
-</p>
-
-### 2. **[Project Name](#)**
-
-<p align="center">
-  <img src="https://via.placeholder.com/150?text=Project+2" alt="Project 2 Image">
-  <br>
-  *A brief description of the project, highlighting key features and technologies used.*
-</p>
-
-### 3. **[Project Name](#)**
-
-<p align="center">
-  <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3 Image">
-  <br>
-  *A brief description of the project, highlighting key features and technologies used.*
-</p>
-
----
 
 ## 🌐 Connect with Me
 
