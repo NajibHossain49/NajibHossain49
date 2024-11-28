@@ -24,7 +24,7 @@
 - 🔭 I’m currently working at [Programming Hero](https://www.programming-hero.com/)
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/) and Blockchain Technology.
 - 💬 Talk to me about **React, Node.js, Python, JavaScript, and Freelancing Opportunities**
-- 📫 Reach me at **Mnhnajib@outlook.com**
+- 📫 Reach me at **najibhossain1234@gmail.com**
 
 <br>
 
@@ -157,13 +157,13 @@
   <a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:Mnhnajib@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="Outlook logo" />
+  <a href="mailto:najibhossain1234@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> height="40" alt="Gmail logo" />
   </a>
-  <a href="https://t.me/YourTelegramUsername" target="_blank">
+  <a href="https://t.me/[Echo Glimmer](https://t.me/ECHO_GLIMMER)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
   </a>
-  <a href="https://wa.me/YourWhatsAppNumber" target="_blank">
+  <a href="https://wa.me/8801534633727" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
   </a>
   <a href="https://discordapp.com/users/YourDiscordID" target="_blank">
@@ -173,7 +173,7 @@
 
 <br>
 
-## 📊 GitHub Stats <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40px" height="40px">
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical" alt="Najib's GitHub Stats" />
