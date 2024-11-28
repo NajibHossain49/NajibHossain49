@@ -62,7 +62,7 @@
   </a>
 </div>
 
----
+<br>
 
 ## 📈 GitHub Stats <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40px" height="40px">
 
@@ -71,7 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
----
+<br>
 
 ## 💡 Fun Fact
 
