@@ -22,7 +22,7 @@
 <img width="55%" align="right" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working at [Programming Hero](https://www.programming-hero.com/)
-- 🌱 I’m currently learning TypeScript, React Native, and Blockchain
+- 🌱 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and Blockchain.
 - 💬 Talk to me about **React, Node.js, Python, JavaScript, and Freelancing Opportunities**
 - 📫 Reach me at **Mnhnajib@outlook.com**
 
