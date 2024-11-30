@@ -106,6 +106,7 @@
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim logo" title="Vim" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="Replit logo" title="Replit" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="CodePen logo" title="CodePen" />
 </div>
   
