@@ -13,17 +13,17 @@
   Hi there, I'm Najib Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 <h2 align="center">
-  <strong>Frontend Web Developer | Tech Enthusiast | Lifelong Learner</strong>
+  Software Engineer 💻 | Tech Enthusiast 🚀 | Lifelong Learner 📚
 </h2>
 
 
 
-## About Me <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+## About Me <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 <img width="55%" align="right" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working at 
-- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/) and Blockchain Technology.
-- 💬 Talk to me about **React, Node.js, Python, JavaScript, and Freelancing Opportunities**
+- 🌱 I’m currently exploring [Python](https://www.python.org/) [React Native](https://reactnative.dev/) and [Blockchain Technology](https://ethereum.org/en/)
+- 💬 Talk to me about **React, Node.js, JavaScript, and Freelancing Opportunities**
 - 📫 Reach me at **najibhossain1234@gmail.com**
 
 <br>
@@ -106,7 +106,9 @@
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim logo" title="Vim" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="Replit logo" title="Replit" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="CodePen logo" title="CodePen" />
 </div>
+  
 
 ## Cloud & Deployment
 <div align="left">
@@ -162,15 +164,15 @@
   <a href="mailto:najibhossain1234@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://t.me/ECHO_GLIMMER" target="_blank">
+<!--   <a href="https://t.me/ECHO_GLIMMER" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
-  </a>
+  </a> -->
   <a href="https://wa.me/8801534633727" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
   </a>
-  <a href="https://discordapp.com/users/797848770570223626" target="_blank">
+<!--   <a href="https://discordapp.com/users/797848770570223626" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-  </a>
+  </a> -->
 </div>
 
 <br>
