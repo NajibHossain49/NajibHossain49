@@ -180,12 +180,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical" alt="Najib's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" alt="Najib's Most Used Languages" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NajibHossain49&theme=radical&exclude_days=Fri)](https://git.io/streak-stats)
+
+
 
 
 
