@@ -180,16 +180,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical" alt="Najib's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" alt="Najib's Most Used Languages" />
 </p>
-
-
-
-
-
-
 
 ## 💡 Fun Fact
 
