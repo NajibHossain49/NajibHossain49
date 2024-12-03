@@ -185,7 +185,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" alt="Najib's Most Used Languages" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&count_private=true&theme=radical" width="32%" alt="GitHub stats"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NajibHossain49&theme=radical" width="32%" alt="GitHub streak stats"  />
 
 ## 💡 Fun Fact
 
