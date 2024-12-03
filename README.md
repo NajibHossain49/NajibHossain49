@@ -182,7 +182,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical" alt="Najib's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" width="50%" alt="Najib's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibHossain49&layout=compact&theme=radical" alt="Najib's Most Used Languages" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajibHossain49&theme=radical" width="50%" alt="GitHub streak stats"  />
