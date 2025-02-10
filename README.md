@@ -203,8 +203,9 @@
 💭 I enjoy creating visually appealing designs and working on challenging projects. You can find me exploring tech trends or brainstorming ideas when not coding. 😊
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Code,+create,+and+collaborate—always+here+when+you+need+me." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Code,+create,+and+collaborate—always+here+when+you+need+me." />
 </h1>
+
 
 
 
