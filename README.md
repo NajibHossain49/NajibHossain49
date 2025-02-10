@@ -200,7 +200,7 @@
      loading="lazy">
 </p>
 
-💭 I enjoy creating visually appealing designs and working on challenging projects. You can find me exploring tech trends or brainstorming ideas when not coding. 😊
+💭 I appreciate producing visually attractive graphics and taking on tough jobs. When not coding, I like investigating tech trends and brainstorming ideas. 😊
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Code,+create,+and+collaborate—always+here+when+you+need+me." />
