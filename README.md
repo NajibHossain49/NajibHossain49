@@ -21,9 +21,9 @@
 ## About Me <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 <img width="55%" align="right" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at 
-- 🌱 I’m currently exploring [Python](https://www.python.org/) [React Native](https://reactnative.dev/) and [Blockchain Technology](https://ethereum.org/en/)
-- 💬 Talk to me about **React, Node.js, JavaScript, and Freelancing Opportunities**
+- 🔭 I’m currently working at  
+- 🌱 I’m currently exploring [Python](https://www.python.org/), diving deeper into **TypeScript-based backend technologies**, and expanding my knowledge in [Blockchain Technology](https://ethereum.org/en/)  
+- 💬 Talk to me about **React, Next.js, Node.js, JavaScript, and Freelancing Opportunities** — these are my top priorities.
 - 📫 Reach me at **najibhossain1234@gmail.com**
 
 <br>
