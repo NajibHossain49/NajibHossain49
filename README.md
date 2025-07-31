@@ -23,10 +23,12 @@
 
 
 
+
 * 🔭 I’m currently working at
-* 🌱 I’m currently working with [**.NET**](https://learn.microsoft.com/en-us/dotnet/) backend technologies and expanding my knowledge in [Blockchain Technology](https://ethereum.org/en/)
-* 💬 Talk to me about **React, Next.js, Node.js, JavaScript, and Freelancing Opportunities** — reflecting both what I work on and love to discuss.
+* 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and [Go](https://go.dev/).
+* 💬 Talk to me about [**React.js**](https://reactjs.org/), [**Next.js**](https://nextjs.org/), [**Node.js**](https://nodejs.org/), and **Freelancing Opportunities**, topics I work on and enjoy discussing.
 * 📫 Reach me at **[najibhossain1234@gmail.com](mailto:najibhossain1234@gmail.com)**
+
 
 
 
