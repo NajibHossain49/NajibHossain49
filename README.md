@@ -42,3 +42,85 @@
 <br>
 
 ---
+
+<div align="center">
+
+## 🔥 Tech Arsenal & Digital Superpowers <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+
+## Languages
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Go" />
+</div>
+
+## Frontend
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" title="Redux" />
+</div>
+
+## Backend & APIs
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" title="NestJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" title="GraphQL" />
+</div>
+
+## Databases & ORM/ODM
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongoose" height="40" title="Mongoose ODM" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" title="Prisma ORM" />
+</div>
+
+## Cloud & Deployment
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS" />
+</div>
+
+## Tools & Workflow
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" />
+</div>
+
+</div>
