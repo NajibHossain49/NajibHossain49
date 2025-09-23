@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 🎭 About My Digital Journey
+## 🎭 About My Digital Journey <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 
 </div>
 
@@ -124,3 +124,23 @@
 </div>
 
 </div>
+
+---
+
+<div align="center">
+  <h2 style="display: inline-block; text-align: center;">🌐 Connect With Me <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+  <div align="center">
+    <a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    </a>
+    <a href="mailto:najibhossain1234@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    </a>
+    <a href="https://wa.me/8801534633727" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
+    </a>
+  </div>
+</div>
+
+
