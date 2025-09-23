@@ -30,7 +30,7 @@
 
 - 🔭 I'm currently working as **Software Engineer**
 
-- 🌱 I'm currently learning [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and [Go](https://go.dev/).
+- 🌱 I'm currently learning [React Native](https://reactnative.dev/), and [Go](https://go.dev/).
 
 - 💬 Talk to me about [**React.js**](https://reactjs.org/), [**Next.js**](https://nextjs.org/), [**Node.js**](https://nodejs.org/), and **Freelancing Opportunities**, topics I work on and enjoy discussing.
 
