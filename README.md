@@ -1,27 +1,27 @@
-<div align="center">
-  
-  
-  # 🌟 Welcome to My Digital Universe
-   
-
-
+# 🌟 Welcome to My Digital Universe
 
 <div align="center">
   
   
   <!-- Social Media Links with Glowing Effect -->
   <a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
-   
-</div>
+    
+
 <div align="center">
   
   <!-- Animated Header Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Najib%20Hossain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Dreams%20Into%20Reality&descAlignY=55&descSize=18" />
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=💻+Full+Stack+Developer;🚀+Innovation+Enthusiast;🎯+Problem+Solver;✨+Code+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Full+Stack+Developer;🚀+Innovation+Enthusiast;🎯+Problem+Solver;✨+Code+Architect" alt="Typing SVG" />
   
-  
+  <!-- Spectacular Profile Stats -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=NajibHossain49&style=for-the-badge&color=blueviolet&label=Profile+Views&logo=eye&logoColor=white" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NajibHossain49?style=for-the-badge&color=blue&labelColor=black&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/github/stars/NajibHossain49?style=for-the-badge&color=yellow&labelColor=black&logo=star&logoColor=yellow" alt="Stars" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-ff69b4?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-orange?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Clean Code" /> -->
   
 </div>
 
@@ -33,36 +33,28 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
 </div>
 
-<div align="left">
-  <img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" />
-  
-  ```yaml
-  najib_hossain:
-    role: "Software Engineer & Tech Innovator"
-    location: "Dhaka, Bangladesh 🇧🇩"
-    current_focus: "Building scalable web solutions"
-    learning: ["TypeScript", "React Native", "Go", "Cloud Architecture"]
-    passion: ["Clean Code", "UI/UX Design", "Problem Solving"]
-    available_for: "Freelance Projects & Collaborations"
-    fun_fact: "I debug with coffee and deploy with determination ☕"
-    motto: "Code with purpose, build with passion"
-  ```
-  
-  🌟 **What drives me:**
-  - 🔥 Creating seamless user experiences
-  - 🚀 Exploring cutting-edge technologies
-  - 💡 Turning complex problems into elegant solutions
-  - 🌍 Contributing to open-source communities
-  
-</div>
+<img width="55%" align="right" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<br clear="both" />
+* 🔭 I'm currently working as **Software Engineer**
 
+* 🌱 I'm currently learning [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), and [Go](https://go.dev/).
 
+* 💬 Talk to me about [**React.js**](https://reactjs.org/), [**Next.js**](https://nextjs.org/), [**Node.js**](https://nodejs.org/), and **Freelancing Opportunities**, topics I work on and enjoy discussing.
+
+* 📫 Reach me at **[najibhossain1234@gmail.com](mailto:najibhossain1234@gmail.com)**
+
+* ⚡ Fun fact **I appreciate producing visually attractive graphics and taking on tough jobs. When not coding, I like investigating tech trends and brainstorming ideas.**
+
+<br>
+<br>
 
 ---
 
 ## 🔥 Tech Arsenal & Digital Superpowers
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> 
@@ -219,6 +211,10 @@
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</div>
+
+<div align="center">
   
   
   <!-- GitHub Stats Cards -->
@@ -242,6 +238,10 @@
 ## 🌟 Featured Projects Showcase
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</div>
+
+<div align="center">
   
   <!-- Project Cards -->
   <a href="https://github.com/NajibHossain49/project1">
@@ -256,6 +256,10 @@
 ---
 
 ## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</div>
 
 <div align="center">
   
@@ -287,6 +291,10 @@
 ## 💭 Developer Quote
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</div>
+
+<div align="center">
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
   
@@ -295,6 +303,10 @@
 ---
 
 ## 🎨 Fun Zone & Developer Life
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
+</div>
 
 <div align="center">
   
@@ -336,15 +348,15 @@
   
   <br>
   
-  <!-- Animated Snake eating commits -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- Animated Snake eating commits
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
   
   <br>
   
   <!-- Developer Quote with Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Sparkle" width="20" />
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Sparkle" width="20" /> -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=The+best+way+to+predict+the+future+is+to+create+it!;Code+is+poetry+written+for+machines+to+understand.;Debugging+is+like+being+a+detective+in+a+crime+movie...;where+you're+also+the+murderer.+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F" alt="Developer Quotes" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Sparkle" width="20" />
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Sparkle" width="20" /> -->
   
 </div>
 
