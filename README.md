@@ -1,11 +1,4 @@
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Divider" />
-  
-  <!-- Social Media Links with Glowing Effect -->
-  <a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
-    # 🌟 Welcome to My Digital Universe
+# 🌟 Welcome to My Digital Universe
 
 <div align="center">
   
@@ -15,13 +8,10 @@
   <!-- Dynamic Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Full+Stack+Developer;🚀+Innovation+Enthusiast;🎯+Problem+Solver;✨+Code+Architect" alt="Typing SVG" />
   
-  <!-- Spectacular Profile Stats -->
-  <img src="https://komarev.com/ghpvc/?username=NajibHossain49&style=for-the-badge&color=blueviolet&label=Profile+Views&logo=eye&logoColor=white" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NajibHossain49?style=for-the-badge&color=blue&labelColor=black&logo=github&logoColor=white" alt="Followers" />
+  <!-- Glowing Profile Stats -->
+  <img src="https://komarev.com/ghpvc/?username=NajibHossain49&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NajibHossain49?style=for-the-badge&color=blue&labelColor=black&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/github/stars/NajibHossain49?style=for-the-badge&color=yellow&labelColor=black&logo=star&logoColor=yellow" alt="Stars" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-ff69b4?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-orange?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Clean Code" />
   
 </div>
 
@@ -29,12 +19,8 @@
 
 ## 🎭 About My Digital Journey
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
-</div>
-
 <div align="left">
-  <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
+  <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
   
   ```yaml
   najib_hossain:
@@ -58,162 +44,77 @@
 
 <br clear="both" />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Divider" />
-</div>
-
 ---
 
-## 🔥 Tech Arsenal & Digital Superpowers
+## ⚡ Tech Arsenal & Superpowers
 
+### 🎯 Programming Languages
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> 
-  <b>PROGRAMMING LANGUAGES</b> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
+  
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=yellow)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)
+  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=black)
+  
 </div>
 
+### 🌐 Frontend Mastery
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" title="C++" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" title="Java" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C# logo" title="C#" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" title="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" title="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" alt="Solidity logo" title="Solidity" />
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=purple)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=red)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=teal)
+  
 </div>
 
-<br>
-
+### ⚙️ Backend Power
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
-  <b>FRONTEND TECHNOLOGIES</b>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=red)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=purple)
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=purple)
+  
 </div>
 
+### 💾 Database Expertise
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo" title="React" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js logo" title="Next.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux logo" title="Redux" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" title="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" title="CSS3" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS logo" title="Tailwind CSS" />
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=green)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue)
+  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=red)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=red)
+  
 </div>
 
-<br>
-
+### ☁️ DevOps & Cloud
 <div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" height="35"> 
-  <b>BACKEND FRAMEWORKS</b>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" height="35">
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=orange)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+  
 </div>
 
+### 🛠️ Development Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" title="Node.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS logo" title="NestJS" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express logo" title="Express.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET logo" title=".NET" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET Core logo" title=".NET Core" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1ncXpvMG8waXVmZzJsM3Y1cjd5cTh1eXJ4bTVsZzlxN2t4cDJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdFc8fubgS31b8DsVu/giphy.gif" width="35"> 
-  <b>DATABASES</b>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1ncXpvMG8waXVmZzJsM3Y1cjd5cTh1eXJ4bTVsZzlxN2t4cDJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdFc8fubgS31b8DsVu/giphy.gif" width="35">
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB logo" title="MongoDB" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" title="MySQL" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL logo" title="PostgreSQL" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle logo" title="Oracle" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" height="50"> 
-  <b>DEVELOPMENT TOOLS</b>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" height="50">
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Visual Studio Code logo" title="Visual Studio Code" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="Visual Studio logo" title="Visual Studio" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="PyCharm logo" title="PyCharm" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub logo" title="GitHub" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" title="Git" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="Postman logo" title="Postman" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma logo" title="Figma" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"> 
-  <b>CLOUD & DEPLOYMENT</b>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50">
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker logo" title="Docker" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel logo" title="Vercel" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase logo" title="Firebase" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux logo" title="Linux" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo" title="npm" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50" height="50">
-  <b>ADDITIONAL SKILLS</b>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50" height="50">
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow logo" title="TensorFlow" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="GraphQL logo" title="GraphQL" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino logo" title="Arduino" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite logo" title="Vite" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vim" height="50" alt="Vim logo" title="Vim" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="MATLAB logo" title="MATLAB" />
+  
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=blue)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=purple)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=orange)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=purple)
+  
 </div>
 
 ---
@@ -221,7 +122,6 @@
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Divider" />
   
   <!-- GitHub Stats Cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NajibHossain49&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&custom_title=⚡%20GitHub%20Stats" />
@@ -236,7 +136,6 @@
   <!-- Trophy Display -->
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=NajibHossain49&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Divider" />
 </div>
 
 ---
@@ -296,57 +195,32 @@
 
 ---
 
-## 🎨 Fun Zone & Developer Life
+## 🎨 Fun Zone
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Divider" />
   
-  <!-- Matrix-style coding animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Matrix Coding" />
+  <!-- Animated Elements -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
   
-  ### 🔥 Current Developer Status
+  ### 🔥 Current Mood
+  ```
+  if (coding) {
+    mood = "Happy 😊";
+  } else if (debugging) {
+    mood = "Determined 😤";
+  } else if (deploying) {
+    mood = "Anxious 😰";
+  } else {
+    mood = "Ready to code! 🚀";
+  }
+  ```
   
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=if+(coding)+%7B+mood+%3D+'Happy+%F0%9F%98%8A'+%7D;else+if+(debugging)+%7B+mood+%3D+'Determined+%F0%9F%98%A4'+%7D;else+if+(deploying)+%7B+mood+%3D+'Anxious+%F0%9F%98%B0'+%7D;else+%7B+mood+%3D+'Ready+to+code!+%F0%9F%9A%80'+%7D" alt="Developer Status" />
-  </div>
-  
-  <br>
-  
-  <!-- Coffee & Code Stats -->
-  <img src="https://img.shields.io/badge/☕%20Coffee%20Consumed-9999%2B%20Cups-brown?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/🐛%20Bugs%20Fixed-∞-red?style=for-the-badge&logo=debug&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/🌙%20Late%20Night%20Coding-Always-blue?style=for-the-badge&logo=moon&logoColor=white&labelColor=black" />
-  
-  <br><br>
-  
-  ### 🎯 2024 Goals & Achievements
-  
-  <table align="center">
-    <tr>
-      <td>✅ Master Advanced React Patterns</td>
-      <td>🚧 Build 5 Full-Stack Applications</td>
-    </tr>
-    <tr>
-      <td>🚧 Contribute to 10 Open Source Projects</td>
-      <td>📚 Learn Cloud Architecture</td>
-    </tr>
-    <tr>
-      <td>🎯 Mentor Junior Developers</td>
-      <td>🌟 Launch Personal Tech Blog</td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Animated Snake eating commits -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-  <br>
-  
-  <!-- Developer Quote with Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Sparkle" width="20" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=The+best+way+to+predict+the+future+is+to+create+it!;Code+is+poetry+written+for+machines+to+understand.;Debugging+is+like+being+a+detective+in+a+crime+movie...;where+you're+also+the+murderer.+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F" alt="Developer Quotes" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Sparkle" width="20" />
+  ### 🎯 2024 Goals
+  - [ ] Master Advanced React Patterns
+  - [ ] Build 5 Full-Stack Applications
+  - [ ] Contribute to 10 Open Source Projects
+  - [ ] Learn Cloud Architecture
+  - [ ] Mentor Junior Developers
   
 </div>
 
