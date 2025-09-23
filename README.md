@@ -1,37 +1,19 @@
 # 🌟 Welcome to My Digital Universe
 
-<div align="center">
+<!-- Social Media Links with Glowing Effect -->
+<a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
   
-  
-  <!-- Social Media Links with Glowing Effect -->
-  <a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
-    
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Najib%20Hossain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Dreams%20Into%20Reality&descAlignY=55&descSize=18" />
 
-<div align="center">
-  
-  <!-- Animated Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Najib%20Hossain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Dreams%20Into%20Reality&descAlignY=55&descSize=18" />
-  
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Full+Stack+Developer;🚀+Innovation+Enthusiast;🎯+Problem+Solver;✨+Code+Architect" alt="Typing SVG" />
-  
-  <!-- Spectacular Profile Stats -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=NajibHossain49&style=for-the-badge&color=blueviolet&label=Profile+Views&logo=eye&logoColor=white" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NajibHossain49?style=for-the-badge&color=blue&labelColor=black&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/github/stars/NajibHossain49?style=for-the-badge&color=yellow&labelColor=black&logo=star&logoColor=yellow" alt="Stars" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-ff69b4?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-orange?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Clean Code" /> -->
-  
-</div>
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&vCenter=true&multiline=true&width=800&height=150&lines=+Full+Stack+Developer;+Innovation+Enthusiast;+Problem+Solver;+Code+Architect" alt="Typing SVG" />
 
 ---
 
 ## 🎭 About My Digital Journey
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
 
 <img width="55%" align="right" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
