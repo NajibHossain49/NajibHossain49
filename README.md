@@ -2,48 +2,84 @@
 
 # 🌟 Welcome to My Digital Universe
 
-<!-- Social Media Links with Glowing Effect -->
+<!-- ============================================================
+     SOCIAL MEDIA LINKS — LinkedIn profile link wrapper
+     ============================================================ -->
 <a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
-  
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Najib%20Hossain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Dreams%20Into%20Reality&descAlignY=55&descSize=18" />
+
+<!-- ============================================================
+     ANIMATED HEADER BANNER
+     Uses capsule-render with a twinkling gradient wave effect.
+     Displays name "Najib Hossain" and a subtitle tagline.
+     ============================================================ -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Najib%20Hossain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Crafting%20Digital%20Dreams%20Into%20Reality&descAlignY=55&descSize=18"
+/>
 
 <div align="center">
 
 </div>
-<!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=+Full+Stack+Developer;+Innovation+Enthusiast;+Problem+Solver;+Code+Architect" alt="Typing SVG" />
+
+<!-- ============================================================
+     DYNAMIC TYPING ANIMATION
+     Cycles through role titles using the readme-typing-svg service.
+     Font: Orbitron | Color: Cyan (#00D9FF) | Multiline enabled
+     ============================================================ -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=+Full+Stack+Developer;+Innovation+Enthusiast;+Problem+Solver;+Code+Architect"
+  alt="Typing SVG"
+/>
 
 </div>
 
+<!-- ============================================================
+     ABOUT SECTION
+     Personal introduction with current focus, interests, and contact.
+     ============================================================ -->
 <div align="center">
 
 # 🎭 About My Digital Journey <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 
 </div>
 
+<!-- Decorative holographic animated banner divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
 
+<!-- Profile image floated to the right -->
 <img width="55%" align="right" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<!-- Current role -->
 - 🔭 I'm currently working as **Software Engineer**
 
+<!-- Technologies currently being studied -->
 - 🌱 I'm currently learning [React Native](https://reactnative.dev/), and [Go](https://go.dev/).
 
+<!-- Preferred discussion topics -->
 - 💬 Talk to me about [**React.js**](https://reactjs.org/), [**Next.js**](https://nextjs.org/), [**Node.js**](https://nodejs.org/), and **Freelancing Opportunities**, topics I work on and enjoy discussing.
 
+<!-- Primary contact email -->
 - 📫 Reach me at **[najibhossain1234@gmail.com](mailto:najibhossain1234@gmail.com)**
 
+<!-- Personal fun fact -->
 - ⚡ Fun fact **I appreciate producing visually attractive graphics and taking on tough jobs. When not coding, I like investigating tech trends and brainstorming ideas.**
 
+<!-- ============================================================
+     TECH STACK SECTION
+     Organized by category: Languages, Frontend, Backend,
+     Databases, Cloud, and Tools & Workflow.
+     Each icon sourced from devicons or skillicons CDN.
+     ============================================================ -->
 <div align="center">
 
 # 🔥 Tech Arsenal & Digital Superpowers <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
+<!-- Decorative holographic animated banner divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
 
 ## Languages
 
+<!-- Programming language icons: JavaScript, TypeScript, Go -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
   <img width="12" />
@@ -54,6 +90,7 @@
 
 ## Frontend
 
+<!-- Frontend framework and styling icons: React, Next.js, Tailwind CSS, Redux -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
   <img width="12" />
@@ -66,6 +103,7 @@
 
 ## Backend & APIs
 
+<!-- Backend runtime and framework icons: Node.js, Express.js, NestJS, GraphQL -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
   <img width="12" />
@@ -78,11 +116,12 @@
 
 ## Databases & ORM/ODM
 
+<!-- Database and ORM icons: MongoDB, Mongoose, PostgreSQL, MySQL, Prisma -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongoose" height="40" title="Mongoose ODM" />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=mongoose" height="40" title="Mongoose ODM" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
@@ -92,6 +131,7 @@
 
 ## Cloud & Deployment
 
+<!-- Cloud and deployment platform icons: Vercel, Firebase, Docker, AWS -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
   <img width="12" />
@@ -104,6 +144,7 @@
 
 ## Tools & Workflow
 
+<!-- Developer tooling icons: Git, GitHub, VS Code, Postman, Figma -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
   <img width="12" />
@@ -121,13 +162,19 @@
 </br>
 </br>
 
+<!-- ============================================================
+     GITHUB ANALYTICS SECTION
+     Displays advanced GitHub contribution statistics
+     sourced from stats.dooboo.io for the username NajibHossain49.
+     ============================================================ -->
 <div align="center">
 
 # 📊 GitHub Analytics & Performance <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
+<!-- Decorative holographic animated banner divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" />
 
-<!-- GitHub Advanced Stats -->
+<!-- GitHub advanced stats card — 90% width for responsive layout -->
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=NajibHossain49" alt="NajibHossain49 GitHub Advanced Stats" width="90%" />
 </div>
@@ -137,22 +184,31 @@
 </br>
 </br>
 
+<!-- ============================================================
+     CONNECT / SOCIAL LINKS SECTION
+     Links to LinkedIn, Gmail, and WhatsApp with icon buttons.
+     ============================================================ -->
 <div align="center">
 
 # 🌐 Connect With Me <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" /> -->
-
 <div align="center">
+
+  <!-- LinkedIn profile link -->
   <a href="https://www.linkedin.com/in/md-najib-hossain/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
+
+  <!-- Gmail contact link -->
   <a href="mailto:najibhossain1234@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
+
+  <!-- WhatsApp contact link using international number format -->
   <a href="https://wa.me/8801534633727" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
   </a>
+
 </div>
 
 </div>
@@ -160,47 +216,77 @@
 </br>
 </br>
 
+<!-- ============================================================
+     DEVELOPER QUOTE SECTION
+     Displays a styled quote card via quotes-github-readme API.
+     Theme: radical | Layout: horizontal
+     ============================================================ -->
 <div align="center">
 
 # 💭 Developer Quote <img src="https://media2.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" /> -->
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
+<!-- Static quote card: "Code is like humor..." by Cory House -->
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House"
+  alt="Dev Quote"
+/>
 
 </div>
 
+<!-- ============================================================
+     FUN ZONE SECTION
+     Animated coding GIF, a live developer mood status ticker,
+     and rotating inspirational developer quotes.
+     ============================================================ -->
 <div align="center">
 
 # 🎨 Fun Zone & Developer Life <img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Holographic Banner" /> -->
-
-<!-- Matrix-style coding animation -->
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" 
-     height="400px" 
-     style="object-fit: cover;"  alt="Matrix Coding" />
+<!-- Matrix-style coding animation GIF -->
+<img
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  width="80%"
+  height="400px"
+  style="object-fit: cover;"
+  alt="Matrix Coding"
+/>
 
 ### 🔥 Current Developer Status
 
+<!-- Animated developer mood display using pseudocode-style if/else logic -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=if+(coding)+%7B+mood+%3D+'Happy+%F0%9F%98%8A'+%7D;else+if+(debugging)+%7B+mood+%3D+'Determined+%F0%9F%98%A4'+%7D;else+if+(deploying)+%7B+mood+%3D+'Anxious+%F0%9F%98%B0'+%7D;else+%7B+mood+%3D+'Ready+to+code!+%F0%9F%9A%80'+%7D" alt="Developer Status" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=if+(coding)+%7B+mood+%3D+'Happy+%F0%9F%98%8A'+%7D;else+if+(debugging)+%7B+mood+%3D+'Determined+%F0%9F%98%A4'+%7D;else+if+(deploying)+%7B+mood+%3D+'Anxious+%F0%9F%98%B0'+%7D;else+%7B+mood+%3D+'Ready+to+code!+%F0%9F%9A%80'+%7D"
+    alt="Developer Status"
+  />
 </div>
 
 <br>
 
-<!-- Developer Quote with Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=The+best+way+to+predict+the+future+is+to+create+it!;Code+is+poetry+written+for+machines+to+understand.;Debugging+is+like+being+a+detective+in+a+crime+movie...;where+you're+also+the+murderer.+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F" alt="Developer Quotes" />
+<!-- Rotating inspirational developer quotes — Font: Orbitron, Color: Pink (#F75C7E) -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=The+best+way+to+predict+the+future+is+to+create+it!;Code+is+poetry+written+for+machines+to+understand.;Debugging+is+like+being+a+detective+in+a+crime+movie...;where+you're+also+the+murderer.+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F"
+  alt="Developer Quotes"
+/>
 
 </div>
 
+<!-- ============================================================
+     FOOTER SECTION
+     Animated closing wave banner + farewell typing animation.
+     ============================================================ -->
 <div align="center">
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+<!-- Animated footer wave — mirrors the header banner style -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"
+/>
 
-<!-- Final Message -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+reach+out+anytime!+💬" alt="Footer Typing" />
+<!-- Farewell / call-to-action typing animation -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+reach+out+anytime!+💬"
+  alt="Footer Typing"
+/>
 
 </div>
